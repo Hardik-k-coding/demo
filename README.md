@@ -1,2 +1,3 @@
 # demo
-This is my first GIT repository
+This is my first Git repository
+Auhtor- Hardik kapoor
